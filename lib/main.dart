@@ -15,6 +15,8 @@ class MyApp extends StatelessWidget {
       routes: {
         HomeScreen.routeName : (context) => HomeScreen(),
       },
+      theme: ThemeData.light(),
+
       initialRoute: HomeScreen.routeName,
     );
   }
