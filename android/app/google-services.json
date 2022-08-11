@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "534772661006",
+    "project_id": "todo-c6-alex",
+    "storage_bucket": "todo-c6-alex.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534772661006:android:e18d030f999665d8ecb55f",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app_todo_c6_alex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "534772661006-psf5hccnnmbv57luig7g1ttu4rnh70uv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiH_fXmrF9rXfNBw4SQCokIWATZ1fNQIM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "534772661006-psf5hccnnmbv57luig7g1ttu4rnh70uv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
